@@ -10,3 +10,6 @@ UI and Docker integration for automatically running and managing common pentest 
 
 ## [Quartermaster](https://github.com/redcove/quartermaster) 
 Collection of useful scripts, config files, tutorials, themes, and other resources.
+
+## [Map](https://github.com/users/redcove/projects/1)
+Our public roadmap.
